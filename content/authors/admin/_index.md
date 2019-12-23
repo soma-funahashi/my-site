@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Soma Funahashi
 
 # Username (this should match the folder name)
 authors:
@@ -10,18 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: The University of Tokyo
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
+- Hydrology
 - Computational Linguistics
 - Information Retrieval
 
