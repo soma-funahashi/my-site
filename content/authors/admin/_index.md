@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master Student
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include civil engineering, hydrology, and famine.
+bio: 水文学や飢饉について研究する大学院生。デザインとテクノロジーが好きです。
 
 interests:
 - Civil Engineering
