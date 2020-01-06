@@ -48,7 +48,7 @@ social:
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/soma-funanashi
+  link: https://github.com/soma-funahashi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,6 +65,9 @@ user_groups:
 - Visitors
 ---
 
-Hello, I am Soma Funahashi. Welcome to my website!
+Hello, I am Soma Funahashi, a graduate student who researches hydrology and famine. I also love design and technology.<br>
+In this website, you can take a glance at my research and project.
 
-これはテストです。私のサイトへようこそ！
+水文学や飢饉について研究する大学院生です。<br>
+研究のほか、デザインやテクノロジーにも興味があります。<br>
+このサイトでは、私の研究や携わったプロジェクトについてご覧いただけます。
