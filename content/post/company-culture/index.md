@@ -11,7 +11,7 @@ categories:
 date: "2020-01-01T00:00:00Z"
 lastmod: "2020-01-02T00:00:00Z"
 featured: false
-draft: false
+draft: true
 math : true
 
 # Featured image

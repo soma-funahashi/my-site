@@ -33,6 +33,6 @@ date_format = "Jan 2006"
   location = "Yokohama, Japan"
   date_start = "2019-12-15"
   date_end = "2019-12-20"
-  description = """ Worked as a software engineer. """
+  description = """ Participated short-term internship as an application engineer. """
 
 +++

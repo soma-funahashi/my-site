@@ -18,18 +18,22 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 水文学や飢饉について研究する大学院生。デザインとテクノロジーが好きです。
+bio: 水文学や持続可能な開発について研究する大学院生。デザインとテクノロジーが好きです。
 
 interests:
 - Civil Engineering
 - Hydrology
-- Famine
+- Sustainable development
+- SDGs
 
 education:
   courses:
   - course: BEng in Civil Engineering
     institution: The University of Tokyo
     year: 2019
+  - course: MEng in Civil Engineering
+    institution: The University of Tokyo
+    year: expected in 2021
 
 
 # Social/Academic Networking
@@ -65,9 +69,9 @@ user_groups:
 - Visitors
 ---
 
-Hello, I am Soma Funahashi, a graduate student who researches hydrology and famine. I also love design and technology.<br>
+Hello, I am Soma Funahashi, a graduate student who researches hydrology and sustainable development. I also love design and technology.<br>
 In this website, you can take a glance at my research and project.
 
-水文学や飢饉について研究する大学院生です。<br>
+水文学や持続可能な開発について研究する大学院生です。<br>
 研究のほか、デザインやテクノロジーにも興味があります。<br>
 このサイトでは、私の研究や携わったプロジェクトについてご覧いただけます。
