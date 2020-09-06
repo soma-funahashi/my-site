@@ -23,8 +23,8 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Tokyo, Japan"
   date_start = "2019-05-13"
-  date_end = ""
-  description = """ Working as a marketing researcher and writer. """
+  date_end = "2020-05-31"
+  description = """ Worked as a marketing researcher and writer. """
 
   [[experience]]
   title = "Internship"
